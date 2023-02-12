@@ -1,0 +1,15 @@
+# ninja log v5
+1	275	6968047454805220	CMakeFiles/untitled1.dir/main.c.obj	3ed01b06a40f2d7c
+4	280	6968047454855744	CMakeFiles/untitled1.dir/punto2D.c.obj	a218337ff0240d78
+281	729	6968047459323270	untitled1.exe	f08c30b4596da386
+2	75	6968047550395006	CMakeFiles/untitled1.dir/punto2D.c.obj	a218337ff0240d78
+76	194	6968047551556115	untitled1.exe	f08c30b4596da386
+2	70	6968049178923808	CMakeFiles/untitled1.dir/main.c.obj	3ed01b06a40f2d7c
+5	79	6968049179014853	CMakeFiles/untitled1.dir/punto2D.c.obj	a218337ff0240d78
+79	197	6968049180175115	untitled1.exe	f08c30b4596da386
+2	71	6968054088592603	CMakeFiles/untitled1.dir/main.c.obj	3ed01b06a40f2d7c
+6	283	6968054090711380	CMakeFiles/untitled1.dir/punto2D.c.obj	a218337ff0240d78
+283	417	6968054092023692	untitled1.exe	f08c30b4596da386
+2	69	6968054845939182	CMakeFiles/untitled1.dir/main.c.obj	3ed01b06a40f2d7c
+5	85	6968054846099225	CMakeFiles/untitled1.dir/punto2D.c.obj	a218337ff0240d78
+85	208	6968054847309496	untitled1.exe	f08c30b4596da386

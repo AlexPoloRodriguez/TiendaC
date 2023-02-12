@@ -1,0 +1,15 @@
+# ninja log v5
+2	71	6976775049871542	CMakeFiles/untitled2.dir/main.c.obj	88af15ecb572502
+2	75	6976776837436328	CMakeFiles/untitled2.dir/racional/racional.c.obj	1a523e4bc9ebd7ed
+76	193	6976776838587561	untitled2.exe	fadff027054203d8
+6	1042	6978413850420693	CMakeFiles/untitled2.dir/main.c.obj	88af15ecb572502
+2	1043	6978413850420693	CMakeFiles/untitled2.dir/selection/selection.c.obj	c5131297202a9b49
+1043	1941	6978413859395504	untitled2.exe	e35ae8253577c8fe
+2	69	6978414185750095	CMakeFiles/untitled2.dir/main.c.obj	88af15ecb572502
+69	192	6978414186949486	untitled2.exe	e35ae8253577c8fe
+2	56	6978415297274225	CMakeFiles/untitled2.dir/selection/selection.c.obj	c5131297202a9b49
+57	175	6978415298444930	untitled2.exe	e35ae8253577c8fe
+2	59	6978415476237195	CMakeFiles/untitled2.dir/selection/selection.c.obj	c5131297202a9b49
+60	187	6978415477487934	untitled2.exe	e35ae8253577c8fe
+2	57	6978419150771561	CMakeFiles/untitled2.dir/selection/selection.c.obj	c5131297202a9b49
+58	183	6978419151982878	untitled2.exe	e35ae8253577c8fe
