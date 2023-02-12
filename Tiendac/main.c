@@ -7,8 +7,8 @@ int main() {
     printf("3-Agregar tarjeta\n");
     printf("4-Salir");*/
     printf("1-Registrarse");
-    printf("Iniciar sesion");
-
+    printf("2-Iniciar sesion");
+    printf("3-Salir")
 
 
     return 0;
